@@ -18,6 +18,10 @@
 # x = 20
 # print(x)
 
+
+
+
+
 # does not work :(
 # 1 = "Kimjungun"
 # 2 = "Nuclear_Bomb"
