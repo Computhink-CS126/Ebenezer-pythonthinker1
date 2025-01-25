@@ -23,9 +23,9 @@ b = 73167213576218357982157831578736572367586582658265263458766723562
 TSS = a + b
 print(TSS)
 
-1 = "Kimjungun"
-2 = "Nuclear_Bomb"
-total = 1 + 2
+# 1 = "Kimjungun"
+# 2 = "Nuclear_Bomb"
+# total = 1 + 2
 print(total)
 
 
