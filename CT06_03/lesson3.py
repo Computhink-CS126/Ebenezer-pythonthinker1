@@ -14,3 +14,4 @@
 # age = 11
 # print(age)
 
+x = 10
