@@ -21,3 +21,4 @@
 num1 = 125
 num2 = 7316
 Total_Score = num1 + num2
+print(Total_Score)
