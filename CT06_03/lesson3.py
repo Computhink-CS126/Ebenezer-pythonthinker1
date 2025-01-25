@@ -19,7 +19,7 @@
 # print(x)
 
 num1 = 17283571
-num2 = 73167213576
+num1 = 73167213576
 TSS = num1 + num2
 print(TSS)
-TSD = num1 - 
+TSD = num1 - num2
