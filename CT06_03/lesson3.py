@@ -11,5 +11,5 @@
 # Average_Score = Total_Score / 2
 # Print Average_Score
 
-age = 11
-print(age)
+# age = 11
+# print(age)
