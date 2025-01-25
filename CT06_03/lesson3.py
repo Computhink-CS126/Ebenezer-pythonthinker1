@@ -20,8 +20,8 @@
 
 
 #                   |   
-
-
+#                   |
+#
 # does not work :(
 # 1 = "Kimjungun"
 # 2 = "Nuclear_Bomb"
