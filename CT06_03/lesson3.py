@@ -31,4 +31,5 @@
 
 num1 = 100
 num2 = 4
-total
+ans = num1 / num2
+print
