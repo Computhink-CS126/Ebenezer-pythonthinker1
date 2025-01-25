@@ -32,4 +32,4 @@ print(total)
 num1 = 10
 num2 = 50
 subtract = num1 + num2
-ans
+ans = subtract * 3
