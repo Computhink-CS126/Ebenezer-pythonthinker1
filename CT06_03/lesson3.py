@@ -29,5 +29,5 @@ num1 = 10
 num2 = 50
 num3 = 3
 subtract = num1 + num2
-ans = subtract * 3
+ans = subtract * num3
 print(ans)
