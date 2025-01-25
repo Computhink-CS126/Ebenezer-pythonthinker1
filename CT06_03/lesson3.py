@@ -12,4 +12,4 @@
 # Print Average_Score
 
 Age = 11
-Print(Age)
+print(Age)
