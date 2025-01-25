@@ -29,5 +29,6 @@ total = 1 + 2
 print(total)
 
 
-
+num1 = 10
+num2 = 50
 
