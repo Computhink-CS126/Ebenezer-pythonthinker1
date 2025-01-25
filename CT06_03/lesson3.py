@@ -10,3 +10,5 @@ print("Hello from lesson 3")
 # Total_Score = Adam + Brandon + Charlie + Daniel
 # Average_Score = Total_Score / 2
 # Print Average_Score
+
+Age = 11
