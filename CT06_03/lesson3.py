@@ -26,4 +26,5 @@ TSM = num1 - num2
 print(TSM)
 TSD = num1 / num2
 print(TSD)
-TSP = Num1 * 
+TSP = num1 * num2
+print()
