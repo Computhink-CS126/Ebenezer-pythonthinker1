@@ -20,4 +20,4 @@
 
 num1 = 125
 num2 = 7316
-num1 + num2
+Total_Score = num1 + num2
