@@ -1,4 +1,4 @@
-print("Hello from lesson 3")
+# print("Hello from lesson 3")
 
 # Create variable Adam = 60
 # Create variable Brandon = 58
