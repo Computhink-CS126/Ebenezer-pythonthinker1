@@ -30,3 +30,5 @@
 
 
 num1 = 100
+num2 = 4
+total
