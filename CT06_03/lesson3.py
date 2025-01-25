@@ -5,7 +5,7 @@ print("Hello from lesson 3")
 # Create variable Charlie = 98
 # Create variable Daniel = 79
 # Create variable Total_Score
-# Create variable Avrage_Score
+# Create variable Average_Score
 
 # Total_Score = Adam + Brandon + Charlie + Daniel
-# Avrage
+# Average 
