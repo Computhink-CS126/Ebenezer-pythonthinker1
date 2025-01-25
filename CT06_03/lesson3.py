@@ -5,4 +5,4 @@ print("Hello from lesson 3")
 # Create variable Charlie = 98
 # Create variable Daniel = 79
 # Create variable Total_score
-# 
+# Create variable Avrage 
