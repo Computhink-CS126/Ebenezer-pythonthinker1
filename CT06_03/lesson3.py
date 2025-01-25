@@ -20,5 +20,5 @@
 
 num1 = 17283571
 num2 = 73167213576
-Total_Score = num1 + num2
-print(Total_Score)
+Total_Score_Sum = num1 + num2
+print(Total_Score_Sum)
