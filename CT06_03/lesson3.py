@@ -24,4 +24,4 @@ TSS = a + b
 print(TSS)
 
 1 = "Kimjungun"
-2
+2 = "N"
