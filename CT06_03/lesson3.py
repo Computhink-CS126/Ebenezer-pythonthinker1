@@ -18,7 +18,7 @@
 # x = 20
 # print(x)
 
-num1 = 125
-num2 = 7316
+num1 = 17283571
+num2 = 73167213576
 Total_Score = num1 + num2
 print(Total_Score)
