@@ -32,4 +32,4 @@
 num1 = 100
 num2 = 4
 ans = num1 / num2
-print
+print(ans)
