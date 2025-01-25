@@ -24,7 +24,7 @@
 #                  \ /  
 # does not work :(
 # 1 = "Kimjungun"
-# 2 = "tenmillionTsar_Bombs"
+# 2 = "tentrillion_Tsar_Bombs"
 # total = 1 + 2
 # print(total)
 
