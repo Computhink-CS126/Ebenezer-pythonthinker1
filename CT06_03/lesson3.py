@@ -22,6 +22,6 @@ num2 = 17283571
 num1 = 73167213576
 TSS = num1 + num2
 print(TSS)
-TSD = num1 - num2
-print(TSD)
+TSM = num1 - num2
+print(TSM)
 TSdivision
