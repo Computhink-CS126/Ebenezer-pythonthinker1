@@ -26,7 +26,7 @@ print(TSS)
 # 1 = "Kimjungun"
 # 2 = "Nuclear_Bomb"
 # total = 1 + 2
-print(total)
+# print(total)
 
 
 num1 = 10
