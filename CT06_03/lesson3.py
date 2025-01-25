@@ -8,4 +8,4 @@ print("Hello from lesson 3")
 # Create variable Avrage_Score
 
 # Total_Score = Adam + Brandon + Charlie + Daniel
-# 
+# Avrage
