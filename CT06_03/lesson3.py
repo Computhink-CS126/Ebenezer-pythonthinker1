@@ -12,3 +12,4 @@ print("Hello from lesson 3")
 # Print Average_Score
 
 Age = 11
+Print (Age)
