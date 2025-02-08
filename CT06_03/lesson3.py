@@ -24,12 +24,9 @@
 #                  \ /  
 # does not work :(
 # 1 = "Kimjungun"
-# 2 = "ten_sexillion_Tsar_Bombs"
+# 2 = "ten_sexillion_Tsar_Bombs-"
 # total = 1 + 2
 # print(total)
 
 
-num1 = 100
-num2 = 4
-ans = num1 / num2
-print(ans)
+num1 = 
