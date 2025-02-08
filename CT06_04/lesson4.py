@@ -12,3 +12,4 @@
 
 
 # oopsie daisies
+name = input
