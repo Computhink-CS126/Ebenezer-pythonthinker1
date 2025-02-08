@@ -5,3 +5,4 @@ Blue_Price = 2
 Green_Price = 3
 Red_Plates = 3
 Blue_Plates = 5
+Green_Plates = 4
