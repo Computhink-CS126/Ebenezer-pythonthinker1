@@ -11,4 +11,4 @@
 
 
 
-Fav_Colour = 
+Fav_Colour = imput()
