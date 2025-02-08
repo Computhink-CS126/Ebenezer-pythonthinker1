@@ -14,4 +14,5 @@
 # oopsie daisies
 name = input("what is your name?")
 print("Hi " + name)
-Fav_Hobby = input(What)
+Fav_Hobby = input("What is your favourite hobby?")
+print
