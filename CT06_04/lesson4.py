@@ -13,7 +13,7 @@
 
 name = input("what is your name?")
 print(name)
-fav_Colour = input("What is ur favourite Colour")
+fav_Colour = input("What is ur favourite Colour?")
 print(fav_Colour)
 Age = input("what is your age?")
 print(Age)
