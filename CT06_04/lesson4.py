@@ -14,4 +14,4 @@
 # oopsie daisies
 name = input("what is your name?")
 print("Hi " + name)
-Fav
+Fav_Hobby = input(What)
