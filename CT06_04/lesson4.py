@@ -11,4 +11,7 @@
 
 
 
-Fav_Colour = imput()
+name = imput("what is your name?")
+print(name)
+fav_Colour = imput("What is ur favourite Colour")
+print(fav_Colour)
