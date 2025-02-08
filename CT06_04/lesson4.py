@@ -15,4 +15,5 @@
 name = input("what is your name?")
 print("Hi " + name)
 Fav_Hobby = input("What is your favourite hobby?")
-print("I enjoy " + Fav)
+print("I enjoy " + Fav_Hobby)
+
