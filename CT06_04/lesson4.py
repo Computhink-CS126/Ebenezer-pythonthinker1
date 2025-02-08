@@ -11,9 +11,9 @@
 
 
 
-name = imput("what is your name?")
+name = input("what is your name?")
 print(name)
-fav_Colour = imput("What is ur favourite Colour")
+fav_Colour = input("What is ur favourite Colour")
 print(fav_Colour)
 Age = imput("what is your age?")
 print(Age)
