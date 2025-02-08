@@ -15,4 +15,4 @@ name = imput("what is your name?")
 print(name)
 fav_Colour = imput("What is ur favourite Colour")
 print(fav_Colour)
-Age = imput 
+Age = imput("what is your age?")
