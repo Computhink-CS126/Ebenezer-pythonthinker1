@@ -3,4 +3,4 @@ print("Hello from lesson 4")
 Red_Price = 1
 Blue_Price = 2
 Green_Price = 3
-Red
+Red_Plates = 3
