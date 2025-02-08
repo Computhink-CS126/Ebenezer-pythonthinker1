@@ -13,4 +13,4 @@
 
 # oopsie daisies
 name = input("what is your name?")
-print
+print(name)
