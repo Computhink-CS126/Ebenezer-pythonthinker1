@@ -12,4 +12,4 @@
 
 
 # oopsie daisies
-name = input
+name = input()
