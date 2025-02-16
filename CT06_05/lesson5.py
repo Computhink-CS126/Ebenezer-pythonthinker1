@@ -1,1 +1,1 @@
-number = int(("what is your name?"))
+number = int(("Give me a number."))
