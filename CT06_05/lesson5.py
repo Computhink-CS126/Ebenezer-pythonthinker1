@@ -13,3 +13,5 @@
 # print("Happy " + str(Age) + "th Birthday " + Name + "!" + Personal_msg)
 
 
+for i in range(1000000000000000000000000000000000000000000000000000000000000000):
+    print("")
