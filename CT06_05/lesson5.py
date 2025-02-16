@@ -19,4 +19,5 @@
 name = input("cómo te llamas?")
 for char in name:
     print("Give me a " + char)
-    print 
+    print("what do we have?")
+    print()
