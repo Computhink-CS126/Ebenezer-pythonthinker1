@@ -23,5 +23,5 @@
 # print("A FAILURE!")
 
 
-for i in range(100):
-    print("i love chicken rice!")
+# for i in range(100):
+#     print("i love chicken rice!")
