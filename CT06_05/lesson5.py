@@ -46,5 +46,10 @@
 
 
 
-for i in range(8, 99, 8):
-    print(i)
+# for i in range(8, 99, 8):
+#     print(i)
+
+
+
+for p in range(5, 0, -1):
+    print()
