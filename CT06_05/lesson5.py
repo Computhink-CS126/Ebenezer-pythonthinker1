@@ -1,1 +1,1 @@
-number = imput
+number = input("what is your name?")
