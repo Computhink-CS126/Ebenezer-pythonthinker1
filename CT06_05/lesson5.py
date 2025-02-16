@@ -13,4 +13,4 @@
 # print("Happy " + str(Age) + "th Birthday " + Name + "!" + Personal_msg)
 
 for i in range(777):
-    print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia and throw him to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahuat For.")
+    print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia and throw him to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahuat forever.")
