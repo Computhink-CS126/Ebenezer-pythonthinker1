@@ -16,8 +16,10 @@
 #     print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia and throw him to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahuat forever.")
 
 
-name = input("cómo te llamas?")
-for char in name:
-    print("Give me a " + char)
-print("what do we have?")
-print("A FAILURE!")
+# name = input("cómo te llamas?")
+# for char in name:
+#     print("Give me a " + char)
+# print("what do we have?")
+# print("A FAILURE!")
+
+
