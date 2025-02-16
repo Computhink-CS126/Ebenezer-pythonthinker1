@@ -9,4 +9,4 @@
 
 Name = input("what is the birthday person's name?")
 Age = int(input("what age is he/she turning this year?"))
-Personal_msg = input("is there a ")
+Personal_msg = input("What is the message ")
