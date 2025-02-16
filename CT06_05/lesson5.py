@@ -24,4 +24,4 @@
 
 
 for I in Range(100):
-    print
+    print("i love chicken rice!")
