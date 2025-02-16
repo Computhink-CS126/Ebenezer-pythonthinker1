@@ -12,8 +12,10 @@
 # Personal_msg = input("What is the message you want to send him/her?")
 # print("Happy " + str(Age) + "th Birthday " + Name + "!" + Personal_msg)
 
-for i in range(777):
-    print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia and throw him to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahuat forever.")
+# for i in range(777):
+#     print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia and throw him to Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahuat forever.")
 
 
-
+name = input("cómo te llamas?")
+for char in name:
+    print("")
