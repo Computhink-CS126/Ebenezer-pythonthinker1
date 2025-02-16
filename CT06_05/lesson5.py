@@ -3,7 +3,7 @@
 # print("double your number is " + (str(double_Num)))
 
 # year_born = int(input("what year were you born?"))
-# Age = 2025 - year
+# Age = 2025 - year_born
 # print("your age is " + str(Age))
 
 
