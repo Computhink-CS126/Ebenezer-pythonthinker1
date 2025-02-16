@@ -13,5 +13,5 @@
 # print("Happy " + str(Age) + "th Birthday " + Name + "!" + Personal_msg)
 
 
-for i in range(1000000000000000000000000000000000000000000000000000000000000000):
+for i in range(777):
     print("I will sling mud, soil, carbon dioxide, H2O, pneumonoultramicroscopicsilicovolcanoconiosis, give him hippopotomonstrosesquippedaliophobia at my friends again.")
