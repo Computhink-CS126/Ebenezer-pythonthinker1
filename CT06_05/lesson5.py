@@ -36,7 +36,10 @@
 #     print(ni)
 
 
-for p in range(51, 101):
-    print(p)
+# for p in range(51, 101):
+#     print(p)
 
 
+
+for v in range(5, 1):
+    print(v)
