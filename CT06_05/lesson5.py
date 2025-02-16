@@ -8,4 +8,4 @@
 
 
 Name = input("what is the birthday person's name?")
-Age = int(input("what age is "))
+Age = int(input("what age is he/she turning this year?"))
