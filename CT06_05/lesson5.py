@@ -58,3 +58,7 @@
 print("Ready...")
 for i in range(3, 0, -1):
     print(i)
+
+
+for p in range(10, 0, -1):
+    print 
