@@ -7,4 +7,4 @@
 # print("your age is " + str(Age))
 
 
-Name = input()
+Name = input("what is the birthday person's name?")
