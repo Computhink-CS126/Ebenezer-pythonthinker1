@@ -55,6 +55,6 @@
 #     print(p)
 
 
-print
+print("Ready...")
 for i in range(3, 0, -1):
     print(i)
