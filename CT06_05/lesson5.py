@@ -53,3 +53,8 @@
 
 # for p in range(5, 0, -1):
 #     print(p)
+
+
+
+for i in range(3, 0, -1):
+    print 
