@@ -7,3 +7,4 @@
 # print("your age is " + str(Age))
 
 
+Name = input()
