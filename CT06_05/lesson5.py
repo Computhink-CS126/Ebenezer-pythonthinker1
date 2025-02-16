@@ -18,4 +18,4 @@
 
 name = input("cómo te llamas?")
 for char in name:
-    print("")
+    print("Give me a " )
