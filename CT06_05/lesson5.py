@@ -27,6 +27,8 @@
 #     print("i love chicken rice!")
 
 
-for i in range(100):
-    print("I love caik")
-    print("Mother, i plead you for every sentance this machiene called a laptop prints a sentance, you shall give me one caik.")
+# for i in range(100):
+#     print("I love caik")
+#     print("Mother, i plead you for every sentance this machiene called a laptop prints a sentance, you shall give me one caik.")
+
+
