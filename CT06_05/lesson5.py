@@ -61,4 +61,5 @@ for i in range(3, 0, -1):
 
 
 for p in range(10, 0, -1):
-    print 
+    print(p)
+p
