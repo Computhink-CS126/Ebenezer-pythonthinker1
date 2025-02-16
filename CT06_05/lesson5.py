@@ -47,4 +47,4 @@
 
 
 for i in range(8, 99, 8):
-    
+    print(i)
