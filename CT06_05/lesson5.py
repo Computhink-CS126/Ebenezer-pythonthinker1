@@ -32,5 +32,5 @@
 #     print("Mother, i plead you for every sentance this machiene called a laptop prints a sentance, you shall give me one caik.")
 
 
-for ni in range(1, 6):
-    print(ni)
+# for ni in range(1, 6):
+#     print(ni)
