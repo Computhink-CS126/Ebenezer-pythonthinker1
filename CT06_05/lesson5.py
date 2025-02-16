@@ -23,3 +23,5 @@
 # print("A FAILURE!")
 
 
+for I in Range(100):
+    print
