@@ -51,5 +51,5 @@
 
 
 
-for p in range(5, 0, -1):
-    print()
+# for p in range(5, 0, -1):
+#     print(p)
