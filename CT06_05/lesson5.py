@@ -2,4 +2,4 @@
 # double_Num = number * 2
 # print("double your number is " + (str(double_Num)))
 
-age = int(input())
+age = int(input("what year were you born?"))
