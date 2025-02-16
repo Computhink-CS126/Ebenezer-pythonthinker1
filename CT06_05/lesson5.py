@@ -37,4 +37,6 @@
 
 
 for p in range(51, 101):
-    print()
+    print(p)
+
+
