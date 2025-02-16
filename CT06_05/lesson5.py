@@ -36,3 +36,5 @@
 #     print(ni)
 
 
+for p in range(51, 101):
+    print("")
