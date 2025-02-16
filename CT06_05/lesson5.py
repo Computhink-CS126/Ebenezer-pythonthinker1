@@ -1,1 +1,1 @@
-number = int(t("what is your name?"))
+number = int(("what is your name?"))
