@@ -67,6 +67,7 @@
 # Start = int(input("choose a starting number."))
 # Stop = int(input("choose a ending number."))
 # if Start > Stop:
+#   
 #     for i in range(Start, Stop, -1):
 #         print(i)
 # else:
@@ -75,4 +76,7 @@
 #         print(i)
 
 
-numOfStudents = int(input("how many students are there?")
+numOfStudents = int(input("how many students are there?"))
+total_mark = 0
+for i in range(numOfStudents):
+    
