@@ -65,4 +65,4 @@
 # print("BOO!")
 
 Start = input("choese a starting number.")
-Stop = int(input("choese a "))
+Stop = int(input("choese a ending number."))
