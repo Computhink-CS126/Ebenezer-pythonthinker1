@@ -79,4 +79,4 @@
 numOfStudents = int(input("how many students are there?"))
 total_mark = 0
 for i in range(numOfStudents):
-    
+    total
