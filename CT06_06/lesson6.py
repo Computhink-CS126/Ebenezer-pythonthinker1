@@ -14,3 +14,18 @@
 
 # # **Task 1e**:
 # print ("Hello, World!")
+
+
+# **Task 2a**:
+print(age)
+
+# **Task 2b**:
+name = "Alice"
+print(nam)
+
+# **Task 2c**:
+print(x)
+x = 5
+
+# **Task 2d**:
+pint("Hello, World!")
