@@ -75,4 +75,4 @@
 #         print(i)
 
 
-num
+numOfStudents = 
