@@ -64,4 +64,4 @@
 #     print(p)
 # print("BOO!")
 
-Start = 
+Start = input("choese a starting number")
