@@ -10,7 +10,8 @@
 # print("Hello, World!"")
 
 # **Task 1d**:
-# i 5
+# i = 5
 
 # **Task 1e**:
-# print "Hello, World!"
+# print
+#  "Hello, World!"
