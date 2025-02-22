@@ -75,4 +75,4 @@
 #         print(i)
 
 
-numOfStudents = 
+numOfStudents = int(input("how many students are there?")
