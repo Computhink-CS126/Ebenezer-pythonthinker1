@@ -68,4 +68,4 @@ Start = input("choose a starting number.")
 Stop = int(input("choose a ending number."))
 Stop = Stop + 1
 for i in range(Start, str(stop)):
-    print
+    print(i)
