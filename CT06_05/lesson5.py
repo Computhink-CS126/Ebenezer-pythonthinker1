@@ -81,4 +81,4 @@ total_mark = 0
 for i in range(numOfStudents):
     total_mark = total_mark + int(input("what is the mark of this student?"))
 average_score = total_mark / numOfStudents
-print("The average score of all these pupils are " + average_score)
+print("The average score of all these pupils are " + str(average_score))
