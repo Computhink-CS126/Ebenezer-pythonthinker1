@@ -4,7 +4,7 @@
 
 # **Task 1b**:
 # for i in range(5):
-# print(i)
+#   print(i)
 
 # **Task 1c**:
 # print("Hello, World!)
