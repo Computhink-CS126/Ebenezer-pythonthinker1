@@ -7,7 +7,7 @@
 #   print(i)
 
 # **Task 1c**:
-# print("Hello, World!)
+# print("Hello, World!"")
 
 # **Task 1d**:
 # if = 5
