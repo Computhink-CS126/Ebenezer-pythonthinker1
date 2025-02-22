@@ -10,7 +10,7 @@
 # print("Hello, World!"")
 
 # **Task 1d**:
-# if = 5
+# = 5
 
 # **Task 1e**:
 # print "Hello, World!"
