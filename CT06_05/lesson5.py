@@ -79,4 +79,4 @@
 numOfStudents = int(input("how many students are there?"))
 total_mark = 0
 for i in range(numOfStudents):
-    total_mark = total_mark + int(input("what is the first person's "))
+    total_mark = total_mark + int(input("what is the mark of this student?"))
