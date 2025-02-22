@@ -70,6 +70,7 @@ if Start > Stop:
     for i in range(Start, Stop, -1):
         print(i)
 else:
+    Stop = Stop + 1
     for i in range(Start, Stop):
         print(i)
 
