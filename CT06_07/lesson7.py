@@ -51,4 +51,4 @@
 
 
 
-num1
+num1 = input()
