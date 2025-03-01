@@ -36,4 +36,5 @@
 #     print(i)
 
 
-word = input("What number do you want to print? ")
+word = input("What word do you want to print?")
+n = 
