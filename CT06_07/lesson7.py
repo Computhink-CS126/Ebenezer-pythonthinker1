@@ -37,4 +37,5 @@
 
 
 word = input("What word do you want to print?")
-n = int("How many times do you want to repeat this word?")
+n = int(input("How many times do you want to repeat this word?"))
+
