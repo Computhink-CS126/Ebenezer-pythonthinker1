@@ -43,8 +43,11 @@
 
 
 
-n = 0
-name = input("what is your name?")
-n = int(input("How many times do you want to repeat this sentance?"))
-for i in range(n):
-    print("nice to meet you, " + name)
+# n = 0
+# name = input("what is your name?")
+# n = int(input("How many times do you want to repeat this sentance?"))
+# for i in range(n):
+#     print("nice to meet you, " + name)
+
+
+
