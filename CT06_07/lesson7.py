@@ -45,4 +45,6 @@
 
 n = 0
 name = input("what is your name?")
-n = int(input())
+n = int(input("How many times do you want to repeat this sentance?"))
+for i in range(n):
+    
