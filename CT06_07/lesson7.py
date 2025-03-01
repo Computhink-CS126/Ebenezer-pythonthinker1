@@ -44,4 +44,5 @@
 
 
 n = 0
-name = 
+name = input("what is your name?")
+n = 
