@@ -71,4 +71,4 @@
 
 
 total_score = 0
-looped_time = ()
+looped_time = int(input)
