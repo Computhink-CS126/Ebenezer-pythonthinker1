@@ -58,3 +58,4 @@ num4 = int(input("what is the forth number you want to calculate on this joyous 
 num5 = int(input("what is the fifth number you want to calculate on this joyous occasion?"))
 
 
+total_sum = num1 + num2 + num3 + num4 + num5
