@@ -35,7 +35,7 @@
 # for i in range(10, 0, -1):
 #     print(i)
 
-
+n = 0
 word = input("What word do you want to print?")
 n = int(input("How many times do you want to repeat this word?"))
 for i in range(n):
