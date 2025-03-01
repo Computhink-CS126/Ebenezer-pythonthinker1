@@ -36,3 +36,4 @@
 #     print(i)
 
 
+word = 
