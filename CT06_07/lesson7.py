@@ -45,4 +45,4 @@
 
 n = 0
 name = input("what is your name?")
-n = 
+n = int(input())
