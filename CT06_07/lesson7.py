@@ -71,4 +71,4 @@
 
 
 total_score = 0
-num
+n = int
