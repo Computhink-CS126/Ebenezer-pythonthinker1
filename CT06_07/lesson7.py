@@ -71,4 +71,4 @@
 
 
 total_score = 0
-n = int(input("c"))
+n = int(input("wh"))
