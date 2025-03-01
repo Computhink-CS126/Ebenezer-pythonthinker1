@@ -64,4 +64,4 @@
 
 
 
-n = int(input)
+n = int(input("what number do you want the multiplication table of?"))
