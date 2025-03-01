@@ -51,4 +51,4 @@
 
 
 
-num1 = input("what is the first number you want to calculate on this joyous occasion?")
+num1 = int(input("what is the first number you want to calculate on this joyous occasion?"))
