@@ -53,7 +53,7 @@
 
 n = 5
 for i in range(n):
-    num + i
+    num 
 
 
 total_sum = num1 + num2 + num3 + num4 + num5
