@@ -17,6 +17,6 @@ average_score = total / 3
 
 student_name = "Alex"
 
-total = float(total)
+ = float(total)
 
 print("Average score for " + student_name + " is: " + str(average_score))
