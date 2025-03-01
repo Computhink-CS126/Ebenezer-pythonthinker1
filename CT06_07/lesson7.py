@@ -51,13 +51,15 @@
 
 
 
-sum = 0
-for i in range(1, 6):
-    sum = sum + int(input("What is num #" + str(i)))    
+# sum = 0
+# for i in range(1, 6):
+#     sum = sum + int(input("What is num #" + str(i)))    
 
-print("The sum of the five numbers is " + str(sum))
-
-
+# print("The sum of the five numbers is " + str(sum))
 
 
-# n = int(input("what number do you want the multiplication table of?"))
+
+
+n = int(input("what number do you want the multiplication table of?"))
+for i in range(1, 13):
+    print(n * i)
