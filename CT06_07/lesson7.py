@@ -53,7 +53,7 @@
 
 sum = 0
 for i in range(1, 6):
-    sum = sum + input("What is num #" + str(i))    
+    sum = sum + int(input("What is num #" + str(i)))    
 
 print("The sum of the five numbers is " + str(sum))
 
