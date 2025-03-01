@@ -60,6 +60,8 @@
 
 
 
-n = int(input("what number do you want the multiplication table of?"))
-for i in range(1, 13):
-    print(n * i)
+# n = int(input("what number do you want the multiplication table of?"))
+# for i in range(1, 13):
+#     print(n * i)
+
+
