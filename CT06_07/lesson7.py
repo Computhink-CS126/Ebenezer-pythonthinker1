@@ -52,6 +52,8 @@
 
 
 n = 5
+for i in range(n):
+    num
 
 
 total_sum = num1 + num2 + num3 + num4 + num5
@@ -60,4 +62,4 @@ print("The sum of the five numbers is " + str(total_sum))
 
 
 
-n = int(input("what number do you want the multiplication table of?"))
+# n = int(input("what number do you want the multiplication table of?"))
