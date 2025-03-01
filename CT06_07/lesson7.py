@@ -54,7 +54,7 @@
 sum = 0
 for i in range(1, 6):
     sum = sum + input("What is num #" + i)    
-
+    
 
 total_sum = num1 + num2 + num3 + num4 + num5
 print("The sum of the five numbers is " + str(total_sum))
