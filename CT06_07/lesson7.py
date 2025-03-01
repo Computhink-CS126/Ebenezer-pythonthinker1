@@ -1,22 +1,24 @@
-#print("Hello from lesson 7")
+# #print("Hello from lesson 7")
 
-# Lesson 7 - For Loop (Part 2)
+# # Lesson 7 - For Loop (Part 2)
 
-## Recap 1: Debugging Average Score Program
+# ## Recap 1: Debugging Average Score Program
 
-### There is a total of 3 bugs in the following program.
-### Identify and fix the bugs:
+# ### There is a total of 3 bugs in the following program.
+# ### Identify and fix the bugs:
 
-score_one = 80
-score_two = 90
-score_three = 75
+# score_one = 80
+# score_two = 90
+# score_three = 75
 
-total = score_one + score_two + score_three
+# total = score_one + score_two + score_three
 
-average_score = total / 3
+# average_score = total / 3
 
-student_name = "Alex"
+# student_name = "Alex"
 
-average_score = int(average_score)
+# average_score = int(average_score)
 
-print("Average score for " + student_name + " is: " + str(average_score))
+# print("Average score for " + student_name + " is: " + str(average_score))
+
+
