@@ -71,4 +71,4 @@
 
 
 total_score = 0
-n = int(input("wh"))
+n = int(input("What is this student's test score?"))
