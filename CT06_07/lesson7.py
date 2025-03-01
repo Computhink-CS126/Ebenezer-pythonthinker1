@@ -70,3 +70,5 @@
 #     print(str(i) * i)
 
 
+total_score = 0
+num
