@@ -59,3 +59,4 @@ num5 = int(input("what is the fifth number you want to calculate on this joyous 
 
 
 total_sum = num1 + num2 + num3 + num4 + num5
+print()
