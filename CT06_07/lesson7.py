@@ -64,4 +64,4 @@
 
 
 
-n = 
+n = int(input)
