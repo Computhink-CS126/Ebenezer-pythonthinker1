@@ -65,3 +65,4 @@
 #     print(n * i)
 
 
+num = int(input("Enter a number"))
