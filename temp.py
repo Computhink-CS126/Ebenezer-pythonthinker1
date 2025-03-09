@@ -54,4 +54,6 @@ elif Ans_1 == "s":
 else:
     print("WRONG!!!!!!")
 
-Ans_2 = input
+Ans_2 = input("How does a blonde brain cell die?")
+if Ans_2 == "Alone":
+    print
