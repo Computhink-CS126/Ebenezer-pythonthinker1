@@ -8,7 +8,7 @@ stop = int(input("What is the ending number?"))
 if stop > start:
     stop = stop + 1
 else:
-    stop
+    stop = stop - 1
 
 for i in range(start, Stop, Increment):
     print(i)
