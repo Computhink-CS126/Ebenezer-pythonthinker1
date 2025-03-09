@@ -16,4 +16,4 @@
 
 
 
-Ans_1 = input("")
+Ans_1 = input("What is the capital of Spain?")
