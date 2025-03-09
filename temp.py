@@ -10,5 +10,5 @@ if stop > start:
 else:
     stop = stop - 1
 
-for i in range(start, Stop, Increment):
+for i in range(start, stop, Increment):
     print(i)
