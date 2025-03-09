@@ -54,4 +54,4 @@ elif Ans_1 == "s":
 else:
     print("WRONG!!!!!!")
 
-
+Ans_2 = input
