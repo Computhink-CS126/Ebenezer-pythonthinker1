@@ -56,4 +56,5 @@ else:
 
 Ans_2 = input("How does a blonde brain cell die?")
 if Ans_2 == "Alone":
-    print
+    print("Correct!")
+    
