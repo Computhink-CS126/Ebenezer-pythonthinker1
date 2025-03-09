@@ -42,7 +42,7 @@
 
 
 
-
+total_score = 0
 
 Ans_1 = input("What is the capital of Spain? (Blond edition): ")
 if Ans_1 == "S":
