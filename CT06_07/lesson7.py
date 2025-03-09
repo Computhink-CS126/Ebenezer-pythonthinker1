@@ -71,4 +71,6 @@
 
 
 total_score = 0
-looped_time = int(input)
+looped_time = float(input("how many students are there?"))
+for i in range(looped_time):
+    
