@@ -4,4 +4,4 @@
 
 start = int(input("What is the starting number?"))
 Stop = int(input("What is the ending number?")) + 1
-Increment = 
+Increment = int(input("What is the Increment?"))
