@@ -47,6 +47,7 @@
 Ans_1 = input("What is the capital of Spain? (Blond edition): ")
 if Ans_1 == "S":
     print("Correct!")
+    total_score = total_score + 1
 elif Ans_1 == "s":
     print("Correct!")
     total_score = total_score + 1
