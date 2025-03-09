@@ -10,6 +10,6 @@ else:
     stop = stop - 1
 
 Increment = int(input("What is the Increment?"))
-for i in range(start, stop, Increment):
 
+for i in range(start, stop, Increment):
     print(i)
