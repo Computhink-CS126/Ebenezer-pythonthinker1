@@ -60,3 +60,4 @@ if Ans_2 == "Alone":
     total_score = total_score + 1
 elif Ans_2 == "alone":
     print("Correct!")
+    total_score = total_score + 1
