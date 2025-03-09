@@ -2,4 +2,4 @@
 # print("Nice to meet you, " + name + "!")
 
 
-start
+start = int(input)
