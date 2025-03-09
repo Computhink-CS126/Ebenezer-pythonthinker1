@@ -17,4 +17,5 @@
 
 
 Ans_1 = input("What is the capital of Spain? (Blond edition) ")
-If
+if Ans_1 == "S":
+    print("Correct!")
