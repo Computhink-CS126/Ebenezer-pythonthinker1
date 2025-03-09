@@ -49,7 +49,7 @@ if Ans_1 == "S":
     print("Correct!")
 elif Ans_1 == "s":
     print("Correct!")
-    
+    total_score = total_score + 1
 else:
     print("WRONG!!!!!!")
 
