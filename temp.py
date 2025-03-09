@@ -3,3 +3,4 @@
 
 
 start = int(input("What is the starting number?"))
+Stop = int
