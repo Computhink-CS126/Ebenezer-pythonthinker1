@@ -2,4 +2,4 @@
 # print("Nice to meet you, " + name + "!")
 
 
-start = int(input)
+start = int(input("What is the starting number?"))
