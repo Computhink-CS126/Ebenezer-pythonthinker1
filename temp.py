@@ -61,3 +61,5 @@ if Ans_2 == "Alone":
 elif Ans_2 == "alone":
     print("Correct!")
     total_score = total_score + 1
+else:
+    print("WRONG!!!!!")
