@@ -64,4 +64,4 @@ elif Ans_2 == "alone":
 else:
     print("WRONG!!!!!")
 
-
+Ans_3
