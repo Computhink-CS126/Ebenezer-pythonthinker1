@@ -5,3 +5,6 @@
 start = int(input("What is the starting number?"))
 Stop = int(input("What is the ending number?")) + 1
 Increment = int(input("What is the Increment?"))
+
+for i in range(start, Stop, Increment):
+    print(i)
