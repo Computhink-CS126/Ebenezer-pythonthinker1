@@ -64,4 +64,4 @@ elif Ans_2 == "alone":
 else:
     print("WRONG!!!!!")
 
-print("You got " + int(total_score) + "correct.")
+print("You got " + str(total_score) + "correct.")
