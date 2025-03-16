@@ -21,7 +21,8 @@ if guess == randnum:
     print("CORRECT!>!>!$JU@YU*UDUYD&U*@")
 elif guess == "archangel here":
     print("Welcome archangel")
-
+else:
+    print("")
 
 
 
