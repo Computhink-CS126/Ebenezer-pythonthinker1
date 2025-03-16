@@ -57,4 +57,4 @@ if numapples > 10:
 else:
     print("Your purchase has been discounted")
     totalcost = numapples * 0.9
-print("")
+print("Your purchase cost $" )
