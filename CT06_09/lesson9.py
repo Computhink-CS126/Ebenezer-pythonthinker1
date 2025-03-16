@@ -29,7 +29,6 @@ import random
 
 
 
-
 randnum = str(random.randint(1, 10))
 guess = str(input("Guess a number between 1 and 10: "))
 if guess == randnum:
