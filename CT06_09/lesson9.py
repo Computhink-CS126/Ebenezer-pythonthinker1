@@ -26,7 +26,7 @@ randnum = str(random.randint(1, 10))
 guess = str(input("Guess a number between 1 and 10: "))
 if guess == randnum:
     print("CORRECT!>!>!$JU@YU*UDUYD&U*@")
-elif guess == "archangel here":
+elif guess == "archangel Gabriel here":
     print("Welcome archangel Gabriel")
 else:
     print("You have gotten the wrong answer. :) you will now die :D")
