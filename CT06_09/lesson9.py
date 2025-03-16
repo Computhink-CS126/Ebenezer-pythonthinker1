@@ -7,5 +7,7 @@ num22 = ( num2 % 2 ) == 0
 num33 = ( num2 % 2 ) == 0
 yos = num1 == num2 == num3
 yos = str(yos)
-print("the first number is: " + str(num11)
+print("the first number is: " + str(num11))
+print("the first number is: " + str(num11))
+print("the first number is: " + str(num11))
 print("All numbers are even/odd: " + yos)
