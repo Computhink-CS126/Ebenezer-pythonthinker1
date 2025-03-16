@@ -5,7 +5,7 @@ num3 = random.randint(1, 6)
 num11 = ( num1 % 2 ) == 0
 num22 = ( num2 % 2 ) == 0
 num33 = ( num2 % 2 ) == 0
-yos = num1 == num2 == num3
+yos = num11 == num22 == num33
 yos = str(yos)
 print("the first number is: " + str(num1))
 print("the second number is: " + str(num2))
