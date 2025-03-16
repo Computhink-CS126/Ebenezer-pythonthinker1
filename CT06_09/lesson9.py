@@ -36,7 +36,7 @@ if guess == randnum:
 elif guess == "archangel Gabriel here":
     print("Welcome archangel Gabriel")
 else:
-    print("You have gotten the wrong answer. :) you will now die :D")
+    print("You have gotten the wrong answer. :) you will now die 😁")
 
 
 
