@@ -51,3 +51,4 @@
 
 
 
+numapples = int(input(""))
