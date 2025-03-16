@@ -1,6 +1,6 @@
 import random
 yos = False
-while yos != False:
+while yos != True:
     num1 = random.randint(1, 6)
     num2 = random.randint(1, 6)
     num3 = random.randint(1, 6)
