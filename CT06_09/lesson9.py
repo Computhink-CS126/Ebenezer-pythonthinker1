@@ -19,8 +19,6 @@ randnum = random.randint(1, 10)
 guess = (input("Guess a number between 1 and 10: "))
 if guess == int:
     guess = int(guess)
-else:
-    guess 
 if guess == randnum:
     print("CORRECT!>!>!$JU@YU*UDUYD&U*@")
 elif guess == "archangel here":
