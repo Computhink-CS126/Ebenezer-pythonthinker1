@@ -55,4 +55,5 @@ numapples = int(input("How many apples do you wanna buy?"))
 if numapples > 10:
     totalcost = numapples * 1
 else:
-    print("Your ")
+    print("Your purchase has been discounted")
+    
