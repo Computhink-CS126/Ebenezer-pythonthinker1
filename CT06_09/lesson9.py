@@ -1,4 +1,4 @@
-# import random
+import random
 # yos = False
 # while yos != True:
 #     num1 = random.randint(1, 6)
