@@ -15,7 +15,7 @@ import random
 #     print("All numbers are even/odd: " + yos)
 
 
-
+randnum = random.
 
 
 
