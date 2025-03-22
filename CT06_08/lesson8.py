@@ -19,4 +19,4 @@ for i in range(NOofQuestions):
     if userguess == num1 * num2 :
         print("Correct!")
     else:
-        print("YOUR WRONG!")
+        print("YOUR WRONG! you will now die ( -_•)▄︻テحكـ━一💥")
