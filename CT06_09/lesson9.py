@@ -46,14 +46,14 @@ print("All numbers are even/odd: " + yos)
 
 
 
-totalcost = 0
-numapples = int(input("How many apples do you wanna buy?"))
-if numapples > 10:
-    totalcost = numapples * 1
-else:
-    print("Your purchase has been discounted")
-    totalcost = numapples * 0.9
-print("Your purchase cost $" + str(totalcost))
+# totalcost = 0
+# numapples = int(input("How many apples do you wanna buy?"))
+# if numapples > 10:
+#     totalcost = numapples * 1
+# else:
+#     print("Your purchase has been discounted")
+#     totalcost = numapples * 0.9
+# print("Your purchase cost $" + str(totalcost))
 
 
 
