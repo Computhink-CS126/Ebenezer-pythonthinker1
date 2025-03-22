@@ -67,3 +67,4 @@ print("Your purchase cost $" + str(totalcost))
 
 
 
+daysborrowed
