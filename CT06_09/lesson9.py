@@ -89,4 +89,6 @@ print("All numbers are even/odd: " + yos)
 
 import random
 randnum = random.randint(1, 50)
-usersguess = 
+usersguess = int(input("Guess a number between 1 and 50"))
+if usersguess == randnum:
+    print("Waow magik")
