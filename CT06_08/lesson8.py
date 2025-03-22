@@ -15,4 +15,4 @@ NOofQuestions = int(input("How many questions do you want?"))
 for i in range(NOofQuestions):
     num1 = random.randint(1, 10)
     num2 = random.randint(1, 10)
-    userguess = int(input())
+    userguess = int(input("What is " + num1 + "x"))
