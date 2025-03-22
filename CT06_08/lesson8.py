@@ -13,4 +13,4 @@ else:
 
 NOofQuestions = int(input("How many questions do you want?"))
 for i in range(NOofQuestions):
-    num1 = random.randint()
+    num1 = random.randint(1, 10)
