@@ -8,4 +8,4 @@ else:
 
 
 
-NO.of
+NO.ofQuestions = int(input(""))
