@@ -1,2 +1,2 @@
 import random
-guess = 
+guess = int(random.randint(1, 10))
