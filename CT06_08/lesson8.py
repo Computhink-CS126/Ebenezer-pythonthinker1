@@ -1,2 +1,3 @@
 import random
-guess = int(random.randint(1, 10))
+ans = int(random.randint(1, 10))
+
