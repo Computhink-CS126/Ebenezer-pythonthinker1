@@ -5,3 +5,6 @@ if guess == ans:
     print("Congratulations! your answer is correct :)")
 else:
     print("Your answer was incorrect, the correct answer was " + str(ans) + " you will now die. ( ͡° ͜ʖ ͡°) ▄︻デ══━一💥")
+
+
+
