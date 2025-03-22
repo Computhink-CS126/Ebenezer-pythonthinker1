@@ -70,3 +70,5 @@ print("Your purchase cost $" + str(totalcost))
 DaysBorrowed = int(input("How many day(s) were/was this book borrowed for?"))
 if DaysBorrowed > 25:
     print("REMEMBER TO RETURN YOUR BOOK. or else 🙃̸/̸̅̅ ̆̅ ̅̅ ̅̅")
+else:
+    print 
