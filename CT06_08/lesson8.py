@@ -21,3 +21,13 @@ import random
 #     else:
 #         print("YOUR WRONG! you will now die ( -_•)▄︻テحكـ━一💥")
 #         break
+
+
+
+
+
+
+
+
+
+
