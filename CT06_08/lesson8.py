@@ -8,4 +8,4 @@ else:
 
 
 
-NO.ofQuestions = int(input(""))
+NO.ofQuestions = int(input("How many questions do you want?"))
