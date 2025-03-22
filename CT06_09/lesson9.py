@@ -105,3 +105,7 @@ print("All numbers are even/odd: " + yos)
 
 
 
+
+
+
+
