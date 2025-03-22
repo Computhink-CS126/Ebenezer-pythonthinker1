@@ -67,4 +67,4 @@ print("Your purchase cost $" + str(totalcost))
 
 
 
-DaysBorrowed = int(input("How many day(s were this book borrowed for?"))
+DaysBorrowed = int(input("How many day(s) were/was this book borrowed for?"))
