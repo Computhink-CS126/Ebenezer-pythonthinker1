@@ -92,3 +92,5 @@ randnum = random.randint(1, 50)
 usersguess = int(input("Guess a number between 1 and 50"))
 if usersguess == randnum:
     print("Waow magik")
+else:
+    print("")
