@@ -94,3 +94,14 @@ print("All numbers are even/odd: " + yos)
 #     print("Waow magik")
 # else:
 #     print("YOU FAILURE! 𐐘💥╾━╤デ╦︻ඞා")
+
+
+
+
+
+
+
+
+
+
+
