@@ -87,10 +87,10 @@ print("All numbers are even/odd: " + yos)
 
 
 
-import random
-randnum = random.randint(1, 50)
-usersguess = int(input("Guess a number between 1 and 50"))
-if usersguess == randnum:
-    print("Waow magik")
-else:
-    print("YOU FAILURE! 𐐘💥╾━╤デ╦︻ඞා")
+# import random
+# randnum = random.randint(1, 50)
+# usersguess = int(input("Guess a number between 1 and 50"))
+# if usersguess == randnum:
+#     print("Waow magik")
+# else:
+#     print("YOU FAILURE! 𐐘💥╾━╤デ╦︻ඞා")
