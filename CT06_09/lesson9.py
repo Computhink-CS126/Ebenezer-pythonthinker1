@@ -106,3 +106,5 @@ print("All numbers are even/odd: " + yos)
 
 
 
+px_apple = 0.60
+px
