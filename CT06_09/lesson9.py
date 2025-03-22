@@ -111,4 +111,4 @@ px_orange = 0.90
 cost_Apple = 0
 cost_Apple = 0
 total = 0
-num_oranges = int(input())
+num_oranges = int(input(""))
