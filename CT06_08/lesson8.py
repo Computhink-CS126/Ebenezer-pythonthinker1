@@ -20,3 +20,4 @@ for i in range(NOofQuestions):
         print("Correct!")
     else:
         print("YOUR WRONG! you will now die ( -_•)▄︻テحكـ━一💥")
+        
