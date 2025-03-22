@@ -93,4 +93,4 @@ usersguess = int(input("Guess a number between 1 and 50"))
 if usersguess == randnum:
     print("Waow magik")
 else:
-    print("YOU FAILURE!")
+    print("YOU FAILURE! 𐐘💥╾━╤デ╦︻ඞා")
