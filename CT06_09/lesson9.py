@@ -112,4 +112,4 @@ cost_Apple = 0
 cost_Apple = 0
 total = 0
 num_oranges = int(input("how many oranges do you wanna buy?"))
-num_apples = 
+num_apples = int(input("how many "))
