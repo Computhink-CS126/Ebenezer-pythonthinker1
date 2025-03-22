@@ -67,8 +67,23 @@ print("All numbers are even/odd: " + yos)
 
 
 
-DaysBorrowed = int(input("How many day(s) were/was this book borrowed for?"))
-if DaysBorrowed > 25:
-    print("REMEMBER TO RETURN YOUR BOOK. or else 🙃̸/̸̅̅ ̆̅ ̅̅ ̅̅")
-else:
-    print("Bye have a nice day.◉‿◉")
+# DaysBorrowed = int(input("How many day(s) were/was this book borrowed for?"))
+# if DaysBorrowed > 25:
+#     print("REMEMBER TO RETURN YOUR BOOK. or else 🙃̸/̸̅̅ ̆̅ ̅̅ ̅̅")
+# else:
+#     print("Bye have a nice day.◉‿◉")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
