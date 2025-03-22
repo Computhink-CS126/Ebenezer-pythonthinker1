@@ -88,3 +88,4 @@ print("All numbers are even/odd: " + yos)
 
 
 import random
+randnum = random.randint()
