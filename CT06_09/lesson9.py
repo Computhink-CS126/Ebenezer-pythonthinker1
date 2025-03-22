@@ -117,4 +117,5 @@ if num_apples > 5:
     cost_Apple = num_apples * 0.9
 if num_oranges > 5:
     cost_Orange = num_oranges * 0.9
-total = (cost_Apple * num_apples) + (cost_Orange * num_)
+total = (cost_Apple * num_apples) + (cost_Orange * num_oranges)
+print("Your total will be " + total + ".")
