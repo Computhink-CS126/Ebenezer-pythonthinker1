@@ -35,4 +35,4 @@ num1 = random.randint(1, 6)
 num2 = random.randint(1, 6)
 num3 = random.randint(1, 6)
 num1 = num1 == 0
-num2
+num2 = num2 == 0
