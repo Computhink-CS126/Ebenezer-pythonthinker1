@@ -109,7 +109,7 @@ print("All numbers are even/odd: " + yos)
 px_apple = 0.60
 px_orange = 0.90
 cost_Apple = 0
-cost_Apple = 0
+cost_Orange = 0
 total = 0
 num_oranges = int(input("how many oranges do you wanna buy?"))
 num_apples = int(input("how many apples do u wanna buy?"))
