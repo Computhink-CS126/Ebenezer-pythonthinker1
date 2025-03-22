@@ -54,3 +54,16 @@ else:
     print("Your purchase has been discounted")
     totalcost = numapples * 0.9
 print("Your purchase cost $" + str(totalcost))
+
+
+
+
+
+
+
+
+
+
+
+
+
